@@ -1,0 +1,6 @@
+Settings used to compile and run GameLoop.c
+
+PATH C:\mingw\mingw64\bin\
+cd C:\CProjects\AskEngine\
+g++ GameLoop.c -o GameLoop.exe -lgdi32
+GameLoop.exe
